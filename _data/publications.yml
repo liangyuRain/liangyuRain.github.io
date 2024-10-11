@@ -1,22 +1,54 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "ForestColl: Efficient Collective Communications on Heterogeneous Network Fabrics"
+    title_link: https://arxiv.org/pdf/2402.06787
+    authors: <strong>Liangyu Zhao</strong>, Saeed Maleki, Aashaka Shah, Ziyue Yang, Hossein Pourreza, Arvind Krishnamurthy
+    conference: arXiv preprint, in submission
+    arxiv: https://arxiv.org/abs/2402.06787
+    pdf: https://arxiv.org/pdf/2402.06787
+    code: https://github.com/liangyuRain/ForestColl
+    slides: ./assets/files/ForestColl_MSR.pdf
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "NanoFlow: Towards Optimal Large Language Model Serving Throughput"
+    title_link: https://arxiv.org/pdf/2408.12757
+    authors: Kan Zhu, Yilong Zhao, <strong>Liangyu Zhao</strong>, Gefei Zuo, Yile Gu, Dedong Xie, Yufei Gao, Qinyu Xu, Tian Tang, Zihao Ye, Keisuke Kamahori, Chien-Yu Lin, Stephanie Wang, Arvind Krishnamurthy, Baris Kasikci
+    conference: arXiv preprint, in submission
+    arxiv: https://arxiv.org/abs/2408.12757
+    pdf: https://arxiv.org/pdf/2408.12757
+    code: https://github.com/efeslab/Nanoflow
+
+  - title: Efficient Direct-Connect Topologies for Collective Communications
+    title_link: https://arxiv.org/pdf/2202.03356
+    authors: <strong>Liangyu Zhao</strong>, Siddharth Pal, Tapan Chugh, Weiyang Wang, Jason Fantl, Prithwish Basu, Joud Khoury, Arvind Krishnamurthy
+    conference: USENIX Symposium on Networked Systems Design and Implementation <strong>(NSDI)</strong>, 2025.
+    arxiv: https://arxiv.org/abs/2202.03356
+    pdf: https://arxiv.org/pdf/2202.03356
+    talk: https://youtu.be/iz3N0FSzgwE?t=1995
+    slides: ./assets/files/FOCI_Talk.pdf
+
+  - title: Rethinking Machine Learning Collective Communication as a Multi-Commodity Flow Problem
+    title_link: https://dl.acm.org/doi/10.1145/3651890.3672249
+    authors: Xuting Liu, Behnaz Arzani, Siva Kesava Reddy Kakarla, <strong>Liangyu Zhao</strong>, Vincent Liu, Miguel Castro, Srikanth Kandula, Luke Marshall
+    conference: ACM Special Interest Group on Data Communication <strong>(SIGCOMM)</strong>, 2024.
+    pdf: https://www.sivak.dev/assets/pdf/sigcomm24_teccl.pdf
+    code: https://github.com/microsoft/TE-CCL
+
+  - title: Efficient all-to-all Collective Communication Schedules for Direct-connect Topologies
+    title_link: https://dl.acm.org/doi/pdf/10.1145/3625549.3658656
+    authors: Prithwish Basu, <strong>Liangyu Zhao</strong>, Jason Fantl, Siddharth Pal, Arvind Krishnamurthy, Joud Khoury
+    conference: International Symposium on High-Performance Parallel and Distributed Computing <strong>(HPDC)</strong>, 2024.
+    pdf: https://dl.acm.org/doi/pdf/10.1145/3625549.3658656
+
+  - title: "AutoLRS: Automatic Learning-Rate Schedule by Bayesian Optimization on the Fly"
+    title_link: https://openreview.net/pdf?id=SlrqM9_lyju
+    authors: Yuchen Jin, Tianyi Zhou, <strong>Liangyu Zhao</strong>, Yibo Zhu, Chuanxiong Guo, Marco Canini, Arvind Krishnamurthy
+    conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2021.
+    pdf: https://openreview.net/pdf?id=SlrqM9_lyju
+    code: https://github.com/YuchenJin/autolrs
+
+  - title: "Nexus: A GPU Cluster Engine for Accelerating DNN-Based Video Analysis"
+    title_link: https://dl.acm.org/doi/pdf/10.1145/3341301.3359658
+    authors: Haichen Shen, Lequn Chen, Yuchen Jin, <strong>Liangyu Zhao</strong>, Bingyu Kong, Matthai Philipose, Arvind Krishnamurthy, Ravi Sundaram
+    conference: ACM Symposium on Operating Systems Principles <strong>(SOSP)</strong>, 2019.
+    pdf: https://dl.acm.org/doi/pdf/10.1145/3341301.3359658
+    code: https://github.com/uwsampl/nexus
