@@ -13,6 +13,8 @@ email: "[myfirstname]@cs.washington.edu"
 keywords: Liangyu Zhao
 description: The academic personal website of Liangyu Zhao.
 canonical: https://liangyurain.github.io/
+site_name: Liangyu Zhao
+site_alternateName: ["LZhao", "LZ"]
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
