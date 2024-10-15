@@ -16,31 +16,31 @@
     {% endif %}
   </div> -->
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="{{ link.title_link }}">{{ link.title }}</a></div>
+      <div class="title"><a href="{{ link.title_link }}" gtag-section="publications" gtag-item="{{ link.gtag_item }}">{{ link.title }}</a></div>
       <div class="author">{{ link.authors }}</div>
       <div class="periodical"><em>{{ link.conference }}</em>
       </div>
     <div class="links">
       {% if link.arxiv %} 
-      <a href="{{ link.arxiv }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
+      <a href="{{ link.arxiv }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;" gtag-section="publications" gtag-item="{{ link.gtag_item }}">arXiv</a>
       {% endif %}
       {% if link.pdf %} 
-      <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;" gtag-section="publications" gtag-item="{{ link.gtag_item }}">PDF</a>
       {% endif %}
       {% if link.code %} 
-      <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;" gtag-section="publications" gtag-item="{{ link.gtag_item }}">Code</a>
       {% endif %}
       {% if link.page %} 
-      <a href="{{ link.page }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+      <a href="{{ link.page }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;" gtag-section="publications" gtag-item="{{ link.gtag_item }}">Project Page</a>
       {% endif %}
       {% if link.talk %} 
-      <a href="{{ link.talk }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Talk</a>
+      <a href="{{ link.talk }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;" gtag-section="publications" gtag-item="{{ link.gtag_item }}">Talk</a>
       {% endif %}
       {% if link.slides %} 
-      <a href="{{ link.slides }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Slides</a>
+      <a href="{{ link.slides }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;" gtag-section="publications" gtag-item="{{ link.gtag_item }}">Slides</a>
       {% endif %}
       {% if link.bibtex %} 
-      <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+      <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;" gtag-section="publications" gtag-item="{{ link.gtag_item }}">BibTex</a>
       {% endif %}
       {% if link.notes %} 
       <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>

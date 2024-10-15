@@ -4,9 +4,9 @@ layout: homepage
 
 ## About Me
 
-I am a fourth-year Ph.D. student in the Paul G. Allen School of Computer Science & Engineering at the University of Washington, advised by [Prof. Arvind Krishnamurthy](https://www.cs.washington.edu/people/faculty/arvind). I also completed my undergraduate studies at the University of Washington, earning a B.S. in Computer Science and a B.S. in Applied & Computational Mathematical Sciences (Discrete Math and Algorithms).
+I am a fourth-year Ph.D. student in the Paul G. Allen School of Computer Science & Engineering at the University of Washington, advised by <a href="https://www.cs.washington.edu/people/faculty/arvind" gtag-section="about" gtag-item="arvind">Prof. Arvind Krishnamurthy</a>. I also completed my undergraduate studies at the University of Washington, earning a B.S. in Computer Science and a B.S. in Applied & Computational Mathematical Sciences (Discrete Math and Algorithms).
 
-My CV can be found [here](https://liangyurain.github.io/assets/files/CV/main.pdf).
+My CV can be found <a href="./assets/files/CV/main.pdf" gtag-section="about" gtag-item="cv">here</a>.
 
 ## Research Interests
 
@@ -14,8 +14,8 @@ Machine learning systems, distributed systems, collective communications; broadl
 
 ## News
 
-- **[July 2024]** [ForestColl](https://github.com/liangyuRain/ForestColl) is available on GitHub.
-- **[July 2024]** [*Efficient Direct-Connect Topologies for Collective Communications*](https://arxiv.org/abs/2202.03356) is accepted to NSDI 2025.
+- **[July 2024]** <a href="https://github.com/liangyuRain/ForestColl" gtag-section="news" gtag-item="ForestColl">ForestColl</a> is available on GitHub.
+- **[July 2024]** <a href="https://arxiv.org/abs/2202.03356" gtag-section="news" gtag-item="DirectConnect"><em>Efficient Direct-Connect Topologies for Collective Communications</em></a> is accepted to NSDI 2025.
 - **[July 2024]** I start as a part-time researcher at Microsoft Research.
 
 {% include_relative _includes/publications.md %}
