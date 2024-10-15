@@ -21,7 +21,7 @@ function initSwitcher(delay) {
   var current = document.createElement('link')
   var prevMatch
 
-  current.setAttribute('rel', 'shortcut icon')
+  current.setAttribute('rel', 'icon')
   document.head.appendChild(current)
 
   function faviconApplyLoop() {
