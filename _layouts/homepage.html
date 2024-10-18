@@ -6,12 +6,28 @@
     <script type="application/ld+json">
     {
       "@context" : "https://schema.org",
-      "@type" : "WebSite",
+      "@type" : "Person",
       "name": "{{ site.site_name }}",
       "alternateName": {{ site.site_alternateName | jsonify }},
-      "url": "{{ site.canonical }}"
+      "url": "{{ site.canonical }}",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "{{ site.affiliation }}"
+      },
+      "sameAs" : [
+        "{{ site.google_scholar }}",
+        "{{ site.linkedin }}",
+      ]
     }
     </script>
+
+    <meta property="og:title" content="{{ site.title }} | {{ site.affiliation }}">
+    <meta property="og:description" content="{{ site.description }}">
+    <meta property="og:type" content="profile">
+    <meta property="og:url" content="{{ site.canonical }}">
+    <meta property="og:logo" content="{{ site.favicon_dark }}">
+    <meta property="profile:first_name" content="{{ site.first_name }}">
+    <meta property="profile:last_name" content="{{ site.last_name }}">
 
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
