@@ -6,7 +6,7 @@ layout: homepage
 
 I am a fourth-year Ph.D. student in the Paul G. Allen School of Computer Science & Engineering at the University of Washington, advised by <a href="https://www.cs.washington.edu/people/faculty/arvind" gtag-section="about" gtag-item="arvind">Prof. Arvind Krishnamurthy</a>. I also completed my undergraduate studies at the University of Washington, earning a B.S. in Computer Science and a B.S. in Applied & Computational Mathematical Sciences (Discrete Math and Algorithms).
 
-My CV can be found <a href="./assets/files/CV/main.pdf" gtag-section="about" gtag-item="cv">here</a>.
+My CV can be found <a href="./assets/files/CV/liangyu_cv.pdf" gtag-section="about" gtag-item="cv">here</a>.
 
 ## Research Interests
 
