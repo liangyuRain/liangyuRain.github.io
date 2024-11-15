@@ -8,7 +8,7 @@ main:
     arxiv: https://arxiv.org/abs/2402.06787
     pdf: https://arxiv.org/pdf/2402.06787
     code: https://github.com/liangyuRain/ForestColl
-    slides: ./assets/files/ForestColl_MSR.pdf
+    slides: ./assets/files/ForestColl_slides.pdf
     gtag_item: ForestColl
 
   - title: "NanoFlow: Towards Optimal Large Language Model Serving Throughput"
