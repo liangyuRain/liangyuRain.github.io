@@ -14,9 +14,9 @@ Machine learning systems, distributed systems, collective communications; broadl
 
 ## News
 
+- **[December 2024]** I will join NVIDIA <a href="https://nv-adlr.github.io" gtag-section="news" gtag-item="ADLR">Applied Deep Learning Research (ADLR) group</a> as a research intern in March.
 - **[July 2024]** <a href="https://github.com/liangyuRain/ForestColl" gtag-section="news" gtag-item="ForestColl">ForestColl</a> is available on GitHub.
 - **[July 2024]** <a href="https://arxiv.org/abs/2202.03356" gtag-section="news" gtag-item="DirectConnect"><em>Efficient Direct-Connect Topologies for Collective Communications</em></a> is accepted to NSDI 2025.
-- **[July 2024]** I start as a part-time researcher at Microsoft Research.
 
 {% include_relative _includes/publications.md %}
 
