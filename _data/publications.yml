@@ -27,7 +27,7 @@ main:
     arxiv: https://arxiv.org/abs/2202.03356
     pdf: https://arxiv.org/pdf/2202.03356
     talk: https://youtu.be/iz3N0FSzgwE?t=1995
-    slides: ./assets/files/FOCI_Talk.pdf
+    slides: ./assets/files/CLOPT_Present.pdf
     gtag_item: DirectConnect
 
   - title: Rethinking Machine Learning Collective Communication as a Multi-Commodity Flow Problem
