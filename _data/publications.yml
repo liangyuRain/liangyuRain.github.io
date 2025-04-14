@@ -21,7 +21,7 @@ main:
     gtag_item: NanoFlow
 
   - title: Efficient Direct-Connect Topologies for Collective Communications
-    title_link: https://arxiv.org/pdf/2202.03356
+    title_link: https://www.usenix.org/conference/nsdi25/presentation/zhao-liangyu
     authors: <strong>Liangyu Zhao</strong>, Siddharth Pal, Tapan Chugh, Weiyang Wang, Jason Fantl, Prithwish Basu, Joud Khoury, Arvind Krishnamurthy
     conference: USENIX Symposium on Networked Systems Design and Implementation <strong>(NSDI)</strong>, 2025.
     arxiv: https://arxiv.org/abs/2202.03356
