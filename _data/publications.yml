@@ -24,8 +24,7 @@ main:
     title_link: https://www.usenix.org/conference/nsdi25/presentation/zhao-liangyu
     authors: <strong>Liangyu Zhao</strong>, Siddharth Pal, Tapan Chugh, Weiyang Wang, Jason Fantl, Prithwish Basu, Joud Khoury, Arvind Krishnamurthy
     conference: USENIX Symposium on Networked Systems Design and Implementation <strong>(NSDI)</strong>, 2025.
-    arxiv: https://arxiv.org/abs/2202.03356
-    pdf: https://arxiv.org/pdf/2202.03356
+    pdf: https://www.usenix.org/system/files/nsdi25-zhao-liangyu.pdf
     talk: https://youtu.be/iz3N0FSzgwE?t=1995
     slides: ./assets/files/CLOPT_Present.pdf
     gtag_item: DirectConnect
