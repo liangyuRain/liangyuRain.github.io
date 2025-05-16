@@ -28,13 +28,13 @@ main:
     code: https://github.com/efeslab/Nanoflow
     gtag_item: NanoFlow
 
-  - title: "Tactic: Adaptive Sparse Attention with Clustering and Distribution Fitting for Long-Context LLMs"
-    title_link: https://arxiv.org/pdf/2502.12216
-    authors: Kan Zhu*, Tian Tang*, Qinyu Xu*, Yile Gu, Zhichen Zeng, Rohan Kadekodi, <strong>Liangyu Zhao</strong>, Ang Li, Arvind Krishnamurthy, Baris Kasikci
-    conference: arXiv preprint, in submission
-    arxiv: https://arxiv.org/abs/2502.12216
-    pdf: https://arxiv.org/pdf/2502.12216
-    gtag_item: Tactic
+  # - title: "Tactic: Adaptive Sparse Attention with Clustering and Distribution Fitting for Long-Context LLMs"
+  #   title_link: https://arxiv.org/pdf/2502.12216
+  #   authors: Kan Zhu*, Tian Tang*, Qinyu Xu*, Yile Gu, Zhichen Zeng, Rohan Kadekodi, <strong>Liangyu Zhao</strong>, Ang Li, Arvind Krishnamurthy, Baris Kasikci
+  #   conference: arXiv preprint, in submission
+  #   arxiv: https://arxiv.org/abs/2502.12216
+  #   pdf: https://arxiv.org/pdf/2502.12216
+  #   gtag_item: Tactic
 
   - title: Efficient Direct-Connect Topologies for Collective Communications
     title_link: https://www.usenix.org/conference/nsdi25/presentation/zhao-liangyu
