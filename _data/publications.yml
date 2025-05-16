@@ -11,6 +11,14 @@ main:
     slides: ./assets/files/ForestColl_slides.pdf
     gtag_item: ForestColl
 
+  - title: "FLASH: Fast All-to-All Communication in GPU Clusters"
+    title_link: https://arxiv.org/abs/2505.09764
+    authors: Yiran Lei, Dongjoo Lee, <strong>Liangyu Zhao</strong>, Daniar Kurniawan, Chanmyeong Kim, Heetaek Jeong, Changsu Kim, Hyeonseong Choi, Liangcheng Yu, Arvind Krishnamurthy, Justine Sherry, Eriko Nurvitadhi
+    conference: arXiv preprint, in submission
+    arxiv: https://arxiv.org/abs/2505.09764
+    pdf: https://arxiv.org/pdf/2505.09764
+    gtag_item: FLASH
+
   - title: "NanoFlow: Towards Optimal Large Language Model Serving Throughput"
     title_link: https://arxiv.org/pdf/2408.12757
     authors: Kan Zhu, Yilong Zhao, <strong>Liangyu Zhao</strong>, Gefei Zuo, Yile Gu, Dedong Xie, Yufei Gao, Qinyu Xu, Tian Tang, Zihao Ye, Keisuke Kamahori, Chien-Yu Lin, Stephanie Wang, Arvind Krishnamurthy, Baris Kasikci
@@ -19,6 +27,14 @@ main:
     pdf: https://arxiv.org/pdf/2408.12757
     code: https://github.com/efeslab/Nanoflow
     gtag_item: NanoFlow
+
+  - title: "Tactic: Adaptive Sparse Attention with Clustering and Distribution Fitting for Long-Context LLMs"
+    title_link: https://arxiv.org/pdf/2502.12216
+    authors: Kan Zhu*, Tian Tang*, Qinyu Xu*, Yile Gu, Zhichen Zeng, Rohan Kadekodi, <strong>Liangyu Zhao</strong>, Ang Li, Arvind Krishnamurthy, Baris Kasikci
+    conference: arXiv preprint, in submission
+    arxiv: https://arxiv.org/abs/2502.12216
+    pdf: https://arxiv.org/pdf/2502.12216
+    gtag_item: Tactic
 
   - title: Efficient Direct-Connect Topologies for Collective Communications
     title_link: https://www.usenix.org/conference/nsdi25/presentation/zhao-liangyu
