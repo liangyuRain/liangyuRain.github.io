@@ -41,8 +41,8 @@ main:
     authors: <strong>Liangyu Zhao</strong>, Siddharth Pal, Tapan Chugh, Weiyang Wang, Jason Fantl, Prithwish Basu, Joud Khoury, Arvind Krishnamurthy
     conference: USENIX Symposium on Networked Systems Design and Implementation <strong>(NSDI)</strong>, 2025.
     pdf: https://www.usenix.org/system/files/nsdi25-zhao-liangyu.pdf
-    talk: https://youtu.be/iz3N0FSzgwE?t=1995
-    slides: ./assets/files/CLOPT_Present.pdf
+    talk: https://youtu.be/7_do4KYNpLo?si=meF2HF-IpzQVWxu-
+    slides: https://www.usenix.org/system/files/nsdi25_slides-zhao_liangyu.pdf
     gtag_item: DirectConnect
 
   - title: Rethinking Machine Learning Collective Communication as a Multi-Commodity Flow Problem

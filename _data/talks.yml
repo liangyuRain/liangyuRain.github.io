@@ -2,6 +2,13 @@ main:
   # Always add a unique gtag_item to enable google analytics tracking!!
 
   - title: Efficient Direct-Connect Topologies for Collective Communications
+    venue: USENIX NSDI
+    date: Philadelphia, April 2025
+    video: https://youtu.be/7_do4KYNpLo?si=meF2HF-IpzQVWxu-
+    slides: https://www.usenix.org/system/files/nsdi25_slides-zhao_liangyu.pdf
+    gtag_item: NSDI2025
+
+  - title: Efficient Direct-Connect Topologies for Collective Communications
     venue: FOCI Annual Symposium
     date: University of Washington, October 2023
     video: https://youtu.be/iz3N0FSzgwE?t=1995
