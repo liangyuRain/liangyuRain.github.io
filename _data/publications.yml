@@ -53,7 +53,7 @@ main:
     gtag_item: TE-CCL
 
   - title: Efficient all-to-all Collective Communication Schedules for Direct-connect Topologies
-    title_link: https://dl.acm.org/doi/pdf/10.1145/3625549.3658656
+    title_link: https://dl.acm.org/doi/10.1145/3625549.3658656
     authors: Prithwish Basu, <strong>Liangyu Zhao</strong>, Jason Fantl, Siddharth Pal, Arvind Krishnamurthy, Joud Khoury
     conference: International Symposium on High-Performance Parallel and Distributed Computing <strong>(HPDC)</strong>, 2024.
     pdf: https://dl.acm.org/doi/pdf/10.1145/3625549.3658656
