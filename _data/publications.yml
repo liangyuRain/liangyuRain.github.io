@@ -68,7 +68,7 @@ main:
     gtag_item: AutoLRS
 
   - title: "Nexus: A GPU Cluster Engine for Accelerating DNN-Based Video Analysis"
-    title_link: https://dl.acm.org/doi/pdf/10.1145/3341301.3359658
+    title_link: https://dl.acm.org/doi/10.1145/3341301.3359658
     authors: Haichen Shen, Lequn Chen, Yuchen Jin, <strong>Liangyu Zhao</strong>, Bingyu Kong, Matthai Philipose, Arvind Krishnamurthy, Ravi Sundaram
     conference: ACM Symposium on Operating Systems Principles <strong>(SOSP)</strong>, 2019.
     pdf: https://dl.acm.org/doi/pdf/10.1145/3341301.3359658
