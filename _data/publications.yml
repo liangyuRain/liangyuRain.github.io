@@ -2,19 +2,19 @@ main:
   # Always add a unique gtag_item to enable google analytics tracking!!
 
   - title: "ForestColl: Throughput-Optimal Collective Communications on Heterogeneous Network Fabrics"
-    title_link: https://arxiv.org/pdf/2402.06787
+    title_link: https://arxiv.org/abs/2402.06787
     authors: <strong>Liangyu Zhao</strong>, Saeed Maleki, Yuanhong Wang, Zezhou Wang, Ziyue Yang, Hossein Pourreza, Arvind Krishnamurthy
-    conference: arXiv preprint, in submission
+    conference: USENIX Symposium on Networked Systems Design and Implementation <strong>(NSDI)</strong>, 2026.
     arxiv: https://arxiv.org/abs/2402.06787
     pdf: https://arxiv.org/pdf/2402.06787
     code: https://github.com/liangyuRain/ForestColl
     slides: ./assets/files/ForestColl_slides.pdf
     gtag_item: ForestColl
 
-  - title: "FLASH: Fast All-to-All Communication in GPU Clusters"
+  - title: "FAST: An Efficient Scheduler for All-to-All GPU Communication"
     title_link: https://arxiv.org/abs/2505.09764
     authors: Yiran Lei, Dongjoo Lee, <strong>Liangyu Zhao</strong>, Daniar Kurniawan, Chanmyeong Kim, Heetaek Jeong, Changsu Kim, Hyeonseong Choi, Liangcheng Yu, Arvind Krishnamurthy, Justine Sherry, Eriko Nurvitadhi
-    conference: arXiv preprint, in submission
+    conference: USENIX Symposium on Networked Systems Design and Implementation <strong>(NSDI)</strong>, 2026.
     arxiv: https://arxiv.org/abs/2505.09764
     pdf: https://arxiv.org/pdf/2505.09764
     gtag_item: FLASH

@@ -14,10 +14,11 @@ Machine learning systems, distributed systems, collective communications; broadl
 
 ## News
 
+- **[Dec 2025]** <a href="https://arxiv.org/abs/2402.06787" gtag-section="news" gtag-item="ForestColl">ForestColl</a> and <a href="https://arxiv.org/abs/2505.09764" gtag-section="news" gtag-item="FLASH">FAST</a> are accepted to NSDI 2026.
 - **[May 2025]** I will join ~~AI & Systems Co-design~~ Meta Superintelligence Lab (MSL) Infra team at Meta as a research scientist intern in June.
 - **[Dec 2024]** I will join NVIDIA <a href="https://nv-adlr.github.io" gtag-section="news" gtag-item="ADLR">Applied Deep Learning Research (ADLR)</a> group as a research intern in March.
 - **[Jul 2024]** <a href="https://github.com/liangyuRain/ForestColl" gtag-section="news" gtag-item="ForestColl">ForestColl</a> is available on GitHub.
-- **[Jul 2024]** <a href="https://arxiv.org/abs/2202.03356" gtag-section="news" gtag-item="DirectConnect"><em>Efficient Direct-Connect Topologies for Collective Communications</em></a> is accepted to NSDI 2025.
+- **[Jul 2024]** <a href="https://www.usenix.org/conference/nsdi25/presentation/zhao-liangyu" gtag-section="news" gtag-item="DirectConnect"><em>Efficient Direct-Connect Topologies for Collective Communications</em></a> is accepted to NSDI 2025.
 
 {% include_relative _includes/publications.md %}
 
